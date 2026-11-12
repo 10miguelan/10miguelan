@@ -2,5 +2,11 @@
 Full Stack | java, html, css, mysql 
 guadalagara,jalisco,mexico
 
-##Tecnologías
-![visual study code]
+## proyectos destacados:
+pagina de biblioteca
+pagina de papeleria 
+## Tecnologías
+visual study code
+Render
+workbench
+mysql server 
